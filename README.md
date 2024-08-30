@@ -3,8 +3,7 @@
 
 > By providing a comprehensive, data-driven view of emissions across the organization, this dashboard becomes a powerful tool for driving sustainable business practices, meeting regulatory requirements, and positioning the company as an environmentally responsible entity in the market.
 <P><P>
-  
-<P><P>
+
 
 ## North Star Metric 
 <P><P>
