@@ -34,9 +34,9 @@ Total Carbon Emission Compared to Same Month Last Year: -15.25%
 
 1. Strategic Decision Making:
 
-- Informs leadership about the effectiveness of current sustainability initiatives.
-- Guides resource allocation for emission reduction efforts.
-- Helps prioritize areas for improvement based on impact and goal achievement.
+  - Informs leadership about the effectiveness of current sustainability initiatives.
+  - Guides resource allocation for emission reduction efforts.
+  - Helps prioritize areas for improvement based on impact and goal achievement.
 
 <br />
 
