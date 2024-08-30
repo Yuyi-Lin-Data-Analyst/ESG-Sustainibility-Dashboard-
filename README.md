@@ -1,6 +1,6 @@
 # ESG Sustainibility Dashboard for SBTI Goal
 
-## North Star Metric and Dimensions
+## North Star Metric 
 <P><P>
   
 Total Carbon Emission Compared to Same Month Last Year: -15.25%
@@ -8,6 +8,7 @@ Total Carbon Emission Compared to Same Month Last Year: -15.25%
 
 <P><P>
 
+## Dimensions
 - Emission Scope - Scope 1, Scope 2, and Scope 3
 - Emission Sources - Multiple sources are tracked, ranging from business travel to capital goods
 - Organizational Units - Emissions are tracked at different organizational levels
