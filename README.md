@@ -1,4 +1,4 @@
-# ESG Sustainibility Dashboard for SBTI Goal
+# ESG Sustainibility Dashboard for SBTI Goal (PowerBI)
 <br />
 
 <img width="953" alt="sbti go" src="https://github.com/user-attachments/assets/798123f8-1db5-4153-a1e7-98c459485f47">
