@@ -27,7 +27,7 @@ Total Carbon Emission Compared to Same Month Last Year
 
 <br />
 
-## Primary Goals of the Emissions Reduction Dashboard
+## Primary Goals of the Dashboard
 
 - Track Progress: Monitor the company's emissions reduction efforts over time, comparing current performance to previous periods and set goals.
 - Identify Hotspots: Pinpoint specific areas or activities that contribute most significantly to the company's carbon footprint.
