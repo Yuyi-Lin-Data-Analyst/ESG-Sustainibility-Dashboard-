@@ -1,7 +1,13 @@
 # ESG Sustainibility Dashboard for SBTI Goal
 <br />
 
+<img width="953" alt="sbti go" src="https://github.com/user-attachments/assets/798123f8-1db5-4153-a1e7-98c459485f47">
+
+
+<br />
+
 > By providing a comprehensive, data-driven view of emissions across the organization, this dashboard becomes a powerful tool for driving sustainable business practices, meeting regulatory requirements, and positioning the company as an environmentally responsible entity in the market.
+
 <br />
 
 ## North Star Metric 
