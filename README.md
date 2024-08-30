@@ -21,9 +21,8 @@ Total Carbon Emission Compared to Same Month Last Year: -15.25%
 - Goals - "Sbti Monthly Goal" is tracked.  Individual goals for different emission sources are also set.
 - Absolute Emissions - Measured in MtCO2e (Metric Tons of CO2 equivalent)
 
-<P><P>
-
-<P><P>
+<br />
+<br />
 
 ## Primary Goals of the Emissions Reduction Dashboard
 
