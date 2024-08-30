@@ -12,7 +12,7 @@
 
 ## North Star Metric 
   
-Total Carbon Emission Compared to Same Month Last Year: -15.25%
+Total Carbon Emission Compared to Same Month Last Year
 > This metric indicates the overall progress in emission reduction year-over-year, which is the primary goal for the client.
 
 <br />
