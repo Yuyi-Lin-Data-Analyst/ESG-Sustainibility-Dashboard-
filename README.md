@@ -1,17 +1,15 @@
 # ESG Sustainibility Dashboard for SBTI Goal
-<P><P>
+<br />
 
 > By providing a comprehensive, data-driven view of emissions across the organization, this dashboard becomes a powerful tool for driving sustainable business practices, meeting regulatory requirements, and positioning the company as an environmentally responsible entity in the market.
-<P><P>
-
+<br />
 
 ## North Star Metric 
-<P><P>
   
 Total Carbon Emission Compared to Same Month Last Year: -15.25%
 > This metric indicates the overall progress in emission reduction year-over-year, which is the primary goal for the client.
 
-<P><P>
+<br />
 
 ## Dimensions
 - Emission Scope - Scope 1, Scope 2, and Scope 3
@@ -22,7 +20,6 @@ Total Carbon Emission Compared to Same Month Last Year: -15.25%
 - Absolute Emissions - Measured in MtCO2e (Metric Tons of CO2 equivalent)
 
 <br />
-<br />
 
 ## Primary Goals of the Emissions Reduction Dashboard
 
@@ -31,7 +28,7 @@ Total Carbon Emission Compared to Same Month Last Year: -15.25%
 - Measure Goal Achievement: Assess performance against established targets, such as Science-Based Targets initiative (SBTi) goals.
 - Provide Transparency: Offer a clear, comprehensive view of the company's environmental impact across different scopes and emission sources.
 
-<P><P>
+<br />
 
 ## How It Helps a Company
 
@@ -41,47 +38,47 @@ Total Carbon Emission Compared to Same Month Last Year: -15.25%
 - Guides resource allocation for emission reduction efforts.
 - Helps prioritize areas for improvement based on impact and goal achievement.
 
-<P><P>
+<br />
 
 2. Risk Management:
 
 - Identifies potential regulatory risks related to high-emission areas.
 - Helps anticipate and mitigate future environmental compliance issues.
 
-<P><P>
+<br />
 
 3. Stakeholder Communication:
 
 - Provides data for sustainability reports and disclosures to investors, customers, and regulators.
 - Demonstrates commitment to environmental goals, enhancing corporate reputation.
 
-<P><P>
+<br />
 
 4. Performance Benchmarking:
 
 - Allows comparison of emission reduction performance across different organizational units or against industry peers.
 
-<P><P>
+<br />
   
 5. Goal Setting and Adjustment:
 
 - Facilitates the setting of realistic, data-driven emission reduction targets.
 - Enables timely adjustments to strategies based on ongoing performance.
 
-<P><P>
+<br />
   
 6. Supply Chain Management:
 
 - Helps identify high-emission areas in the supply chain (Scope 3 emissions).
 - Supports decisions about supplier selection and engagement based on environmental impact.
 
-<P><P>
+<br />
 
 7. Product Development:
 
 - Informs eco-friendly product design by highlighting emissions hotspots in the product lifecycle.
 
-<P><P>
+<br />
 
 8. Financial Planning:
 
